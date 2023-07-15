@@ -13,3 +13,8 @@ MAFFT:
 Additionally, I downloaded MAFFT (https://mafft.cbrc.jp/alignment/software/).
 
 Both software programs are able to run in the terminal by just typing the name in the command line.  Before launching the program, ensure that you navigate to the directory containing the desired data by using the "cd" command.
+
+Formatting Data for Alignment: 
+To format my data for alignment, I had to copy and paste the sequences for each gene marker into a Visual Studio Code-3. I saved each one as a text file, in botany-563-final in data_clean as COII.txt, 12S.txt, and 16S.txt. All data files should be saved as a .txt as I did properly. 
+
+Aligning: 
