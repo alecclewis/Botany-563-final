@@ -1,0 +1,222 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.520)
+
+
+G_viminalis     ctttttttagaaatttctacatgaaaaactttaatactccaagatagagcttccccatta
+G_holdausi      ctttttttagaaatttctacatgaaaaactttaatactccaagatagagcttccccatta
+G_occidentalis  ctttttttagaaatttctacatgaaaaactttaatactccaagatagggcttctccatta
+G_rufipes       ctttttttagaaatttctacatgaaaaactttaatactccaagatagggcttccccatta
+G_linnaeana     ctttttttagaaatttctacatgaaaaactttaatacttcaagacagagcttccccacta
+G_Olivacea      ctttttttagaaatttctacctgaaaaactttaatacttcaagatagggcatctccttta
+G_variabilis    ctttttttagaaatttctacatgaaaaactttaatattacaagatagggcatctccctta
+G_fornicata     ctttttttagaaatttctacatgaaaaactttaatactacaagatagagcttcaccttta
+G_interposita   ctttttttagaaattgctacatgaaaaacattaatacttcaagatagggcatccccttta
+G_interposita   ctttttttagaaattgctacatgaaaaacattaatacttcaagatagggcatccccttta
+G_pallida       ctttttttagaaattgctacatgaaaaacattaatacttcaagatagggcatccccttta
+G_pallida       ctttttttagaaattgctacatgaaaaacattaatacttcaagatagggcatccccttta
+G_intermedia    ctttttttagaaattgctacatgaaaaacattaatacttcaggatagggcttccccttta
+G_quinquepuncta ctttttttagaaattgctacatgaaaaacattaattctccaagatagggcttccccttta
+G_nigropiagiata ctttttttagaaattgcaacatgaaaaacccttatactccaagatagagcttccccctta
+G_rubripennis   ctttttttagaaatttctacatgaaaaactttaatactacaagatagagcatcacccctt
+G_kamikawai     ctttttttagaaatttctacatgaaaaactttaatactccaagatagagcttctccatta
+G_tredecimmacul ctttttttagaaattgcaacatgaaaaaccttaatacttcaagatagggcatctccatta
+Chrysomela      ctttttttagaaatcccaacatgaaaaactttgatactacaagatagaacctccccttta
+Oreina          ctttttttagaaatgataacatgaaaaaatattacattacaagatagtgcctcacctttg
+                **************  . ** *******   * *. .* **.**.** .* ** ** .* 
+
+G_viminalis     atagagcaattagcctattttcatgatcatgctttaataattttagttattattacagtt
+G_holdausi      atagagcaattagcttattttcatgatcatgctttaataattttagttattattacagtt
+G_occidentalis  atagaacaattagcttattttcatgatcatgctttaataattttagttattattacagtc
+G_rufipes       atagaacaattagcatactttcatgatcacgctttaataattttagttattattacagtc
+G_linnaeana     atagaacaattagcttattttcacgatcatgctctaataattctagtaatcattacagtt
+G_Olivacea      atagaacagctagcttatttccatgaccatgcattaataattttagttattattactgta
+G_variabilis    atagaacaattagcatattttcatgatcatgcattaataattttagttattattactgta
+G_fornicata     atagaacaattagcttactttcatgaccatgctctaataattttagttattattactgta
+G_interposita   atagaacaattagcttatttccatgatcatgctttaataatttnagttattatcacagta
+G_interposita   atagaacaattagcttatttccatgatcatgctttaataattttagttattatcacagta
+G_pallida       atagaacaattagcttatttccatgatcatgctttaataattnnnnnnattattacagta
+G_pallida       atagaacaattagcttatttccatgatcatgctttaataattttagttattattacagta
+G_intermedia    atagaacaattagcttatttccatgaccatgctttaataattttagttattattacagta
+G_quinquepuncta atagaacaattagcttatttccatgaccatgctttaataattttagttattattacagta
+G_nigropiagiata atagaacaattagcttattttcacgatcatgctttaataattttagttattattacagtt
+G_rubripennis   atagaacaattagcttattttcacgatcatgcccttataattttagttattattactgta
+G_kamikawai     atagagcaattagcctattttcacgatcatgctttaataattttagttattattactgta
+G_tredecimmacul atagaacaattagcttactttcatgaccatgctttaataattctagttattattacagta
+Chrysomela      atagaacaactttcatattttcatgatcataccttaataatcctaataatcatcacagta
+Oreina          atagaacaattaaattacttccatgaccatactttaatgattttgttaattattacagtt
+                *****.**..*    **.**.**.**.**..* .* **.**.      **.**.** ** 
+
+G_viminalis     ttagttggacaattaataataacattattttttaataaattttcacatcgatacctttta
+G_holdausi      ttagttggacaattattaataacattattttttaataaattctcacaccgatatctctta
+G_occidentalis  ttagttggacaattaataataacattattttttaataaattttcacaccgatatctttta
+G_rufipes       ttagttggacaattaatagtaacattatttttcaataaattcacccatcgatacctttta
+G_linnaeana     ctagttggacaattaataataacattattttttaataaatttacccatcgatatctttta
+G_Olivacea      ttagttggacaattaatgataactttattttttaataaatttactcatcgatatttacta
+G_variabilis    cttgtaggacaattaataataactttatttttcaataaatttactcatcgatatttatta
+G_fornicata     ttagtaggacaattaatagtaacccttttttttaataaatttacacatcgttatttatta
+G_interposita   ttagtaggccaattaatagcagctttatttttcaataaatttacccatcggtatttatta
+G_interposita   ttagtaggccaattaatagcagctttatttttcaataaatttacccatcggtatttatta
+G_pallida       ttagtaggccaattaatagcagctttatttttcaataaatttacccatcgatatttacta
+G_pallida       ttagtaagccaattaataacagctttatttttcaataaatttacccatcgatatttacta
+G_intermedia    ttagtaggtcaactaataacaactttattttttaataaatttactcatcgatatttatta
+G_quinquepuncta ttagtaggtcaattaatagtaactttattttttaataaatttactcatcgatatttatta
+G_nigropiagiata ttagttggacaattaataataactttaatttttaataaatttacacatcgttacttactt
+G_rubripennis   ttagtgggtcaattaatattaaccttattttataataaatttacccatcgaaatttatta
+G_kamikawai     ttagttggacaattaataataacattattttttaataaatttacacatcgtaatttatta
+G_tredecimmacul ttagttggtcaattaataataacattattttttaataaatttacccatcgaaatttatta
+Chrysomela      ttagtatctcaattaataatctccttatttctaaataaattttcccaccgtttcttatta
+Oreina          ttagttgcccaactaataattagtttattttacaataaatttacacatcgatatttatta
+                .* **    ***.** *. .    .*  **.  ********. * **.**   ..* .* 
+
+G_viminalis     gaagggcaattaattgaaattatttgaacagttttaccaactttaacccttatttttatt
+G_holdausi      gagggacaattaattgaaattatttgaacaattttaccaactttaactcttatttttatt
+G_occidentalis  gaaggacaattaattgaaattatttgaacaattctaccaactttaacccttatttttatt
+G_rufipes       gaaggacaattaattgaaattatttgaacaattttaccaaccctaacacttatttttatt
+G_linnaeana     gagggtcaaataattgaaattatttgaacaattctaccaactttaacattaatctttatt
+G_Olivacea      gaaggacaattaattgaaattatttgaactattctaccaacactaacgcttatttttatt
+G_variabilis    gaaggtcaaataattgaaattatttgaactattctaccaacattaacactaatttttatt
+G_fornicata     gaaggtcaaataattgaaattatttgaactattttaccaacattaacattaatttttatt
+G_interposita   gagggtcaaataattgaaattatttgaacaattttacctacattaactttaatttttatt
+G_interposita   gagggtcaaataattgaaattatttgaacaattttacctacattaactttaatttttatt
+G_pallida       gagggtcaaataattgaaattatttgaacaattttacctacattaaccttaatttttatt
+G_pallida       gagggtcaaataattgaaattatttgaacaattttacctacattaaccttaatttttatt
+G_intermedia    gaaggtcaattaattgaaattatttgaacaattttacctacattaacattaatttttatt
+G_quinquepuncta gaaggtcaattaattgagattatttgaacaattttaccaacattaacattaatttttatt
+G_nigropiagiata gaaggtcaattaattgaaattatttgaactattttaccaacattaacattaatttttatt
+G_rubripennis   gaaggacaaataattgaaattatttgaacaattttaccaacattaactcttatctttatt
+G_kamikawai     gaaggacaaataattgaaattatttgaacagttttacctacgttaactcttatttttatc
+G_tredecimmacul gaaggacaaatgattgaaattatttgaactattttacctacactaactctaatttttatt
+Chrysomela      gaaggtcaaataattgaagtaatttgaacaattttacctacacttattttaattttgatt
+Oreina          gaaggacaaattattgaaattatctgaactattttacctactttaaccttaatttttatt
+                **.** *** * *****..* **.***** .**.**** ** .* *. .* **.** **.
+
+G_viminalis     gctattccatctttacgattaatttatattctagacgaagttaataatcctataattact
+G_holdausi      gctattccatctttacgattaatttatattctagacgaagttaataatcctataattacc
+G_occidentalis  gctatcccatctttacgattaatttatattctagatgaaattaataatcctataattact
+G_rufipes       gctattccatcattacgattaatttatattttagatgaagttaataatcctataattacc
+G_linnaeana     gctatcccatctttacgattaatttatattttagatgaagttaataaccctataattact
+G_Olivacea      gctatcccatctttacgattaatctatattttagatgaaattaacaatccaataattaca
+G_variabilis    gcaattccgtcattacgtttaatttatattttagatgaaattaataacccaataattact
+G_fornicata     gctattccttctttacgattaatttacattttagatgaaattaataatccaataatcaca
+G_interposita   gctattccttctttacgattaatctatattttagatgaagttaataaccctataattacc
+G_interposita   gctattccttctttacgattaatctatattttagatgaagttaataaccctataattacc
+G_pallida       gctattccttctttacgcttaatctatattttagatgaagttaataaccctataattacc
+G_pallida       gctattccttctttacgcttaatctatattttagatgaagttaataaccctataattacc
+G_intermedia    gctattccttctttacgattaatttatattttagatgaagttaataaccctataattacc
+G_quinquepuncta gctattccttctttacgattaatttatattttagatgaagttaataacccgataattacc
+G_nigropiagiata gctattccttctttacgattaatttatattttagatgaaattaataatccaataattaca
+G_rubripennis   gctattccatcattacgattaatttatattttagatgaagttaataatccaataattact
+G_kamikawai     gcaattccctctcttcgattaatttatattttagatgaagttaataatccaataattact
+G_tredecimmacul gctatcccctccttacgactaatttatattcttgatgaagtaaataatccaataattact
+Chrysomela      gcaattccctctttacgattaatttatgtcctagatgaagttaatagccctttagtcaca
+Oreina          gctattccttccttacgattaatttatatcttagatgaaattaataatcctataattaca
+                ** **.** ** .* ** .****.**..*..* **.***.* **.*..**  **.*.** 
+
+G_viminalis     attaaaactattgggcatcaatgatattgatcatatgaatattctgatttcaaaaacatt
+G_holdausi      attaaaactattggacatcaatgatattgatcatatgaatattctgattttaaaaacatt
+G_occidentalis  attaaaactatcgggcatcaatgatattgatcatacgaatattctgattttaaaaatatt
+G_rufipes       attaaaaccattggtcatcaatgatactgatcatatgaatattctgatttcaaaaatatt
+G_linnaeana     attaaaactattggacatcaatgatactgatcatatgagtattcagatttcaaaaatatt
+G_Olivacea      attaaaactattggacatcaatggtactgatcatatgaatactctgattttaaaaatatc
+G_variabilis    attaaaactattggacaccaatgatattgatcttatgaatattctgattttaaaaatatt
+G_fornicata     attaaaactattggacatcaatgatattgatcttatgaatattctgattttaaaaatatt
+G_interposita   attaaaactattggacatcaatgatactgatcttatgaatattcagattttaaaaatatt
+G_interposita   attaaaactattggacatcaatgatactgatcttatgaatattcagatttcaaaaatatt
+G_pallida       attaaaactattggacatcaatgatactgatcttatgaatattcagatttcaaaaatatt
+G_pallida       attaaaactattggacatcaatgatactgatcttatgaatattcagatttcaaaaatatt
+G_intermedia    attaaaactattggacaccaatgatactgatcctatgaatattccgacttcaaaaatatt
+G_quinquepuncta attaaaactattggacaccaatgatattgatcctatgaatattctgacttcaagaatatt
+G_nigropiagiata attaaaactattgggcatcaatgatattgatcttatgaatattcagacttcaaaaatatc
+G_rubripennis   attaaaacaattggacatcaatgatattgatcatatgaatattcagatttcaaaaatatt
+G_kamikawai     atcaaaacaattggtcatcaatgatactgatcctatgaatactcagattttaaaaatatt
+G_tredecimmacul attaaaactatcgggcaccaatgatactgatcttacgaatattccgattttaaaaatatt
+Chrysomela      atcaaaacaattgggcatcaatgatattgatcctacgaatactctgacttcaaaaatatt
+Oreina          attaaaactattggacatcaatgatattgatcatatgaatattcagattttaaaaatatt
+                **.***** **.** **.*****.**.***** **.**.**.** **.**.**.**.**.
+
+G_viminalis     gaatttgattcttatatattaccaaccaaagaattaaataattttaattttcgactttta
+G_holdausi      gaatttgattcttatatactaccaaccaaagaattaaatacttttaattttcgactttta
+G_occidentalis  gaatttgattcttatatattaccaactaaagaattaaataattttaactttcgactttta
+G_rufipes       gaatttgattcttatatactaccaactcaagaattaaataattttaactttcggctatta
+G_linnaeana     gaatttgattcttacatattaccaactaaagaattaaataattttaattttcgacttcta
+G_Olivacea      gaatttgattcatatataataccaacctcagaattaaataaattcaattttcgtctttta
+G_variabilis    gaatttgattcatatatactaccaaccatagaattaaataaatttaattttcgtttatta
+G_fornicata     gaatttgattcttacatattaccaactagagaattaaataaatttaattttcgcctatta
+G_interposita   gaatttgattcctatatactcccaactgcagaattaaataaatttaattttcgtttatta
+G_interposita   gaatttgattcatatatactcccaactgcagaattaaataaatttaattttcgtttatta
+G_pallida       gaatttgattcctatatactcccaactgcagaattaaataaatttaattttcgtttatta
+G_pallida       gaatttgattcttatatacttccaactgtagaattaaataaatttaattttcgtttatta
+G_intermedia    gaattcgattcttatatactaccaactatagagttaaataaatttaactttcgtttatta
+G_quinquepuncta gaattcgactcttacatactaccaaccgcagaattaaataaatttaattttcgtttatta
+G_nigropiagiata gaatttgattcatatatattaccaactagagaattaaataaatataactttcgtctttta
+G_rubripennis   gaatttgattcttatatattaccaacaagagaacttaataaatttaattttcggctatta
+G_kamikawai     gaatttgattcatacatactccctactaatgaattaaaaaattttaatttccggctactt
+G_tredecimmacul gaatttgattcgtatatattaccaactacagaattaaataaatttaatttccgcctatta
+Chrysomela      gaatttgattcttacataactccaattaatgaattaaataaatttaattttcgtctttta
+Oreina          gaattcgattcttacataattcctactaatgaattaaaaatttttaattttcgtctttta
+                *****.**.** **.*** . ** *.    **..* ** *  * .**.**.** .* .* 
+
+G_viminalis     gatgtagataatcgaattgttgtaccatttgaatcccaaattcgcatattagtatctgct
+G_holdausi      gatgtagacaatcgaattgttgtaccatttgaatcccaaattcgaatattggtatctgct
+G_occidentalis  gatgtagataatcgaattgttgtaccatttgaatcccaaatccgcatattagtatctgca
+G_rufipes       gatgttgataatcgaattattgtaccttttgaatcccaaattcgaatattggtatctgca
+G_linnaeana     gatgtagataaccgaattgttgtaccatttgaatctcaaattcgaatattagtaagtgca
+G_Olivacea      gacgttgataatcgagtagtagtaccttttgaatctcaaattcgaatattagtaactgcg
+G_variabilis    gatgtagataatcgagtagttgtaccatttgaatcacagattcgaatattagttactgca
+G_fornicata     gatgtagataatcgaattgtagtaccttttgaatcccaaattcgaatattagtaactgct
+G_interposita   gatgtggataatcgaattgttatcccctttgaatcacaaattcggatactggtaactgca
+G_interposita   gatgtggataatcgaattattatcccctttgaatcacaaattcggatactagtaactgca
+G_pallida       gatgtggataatcgaattrttattccctttgaatcacaaattcgaatactggtaactgca
+G_pallida       gatgtagataatcgaattattattccatttgaatcacaaattcgaatactggtaactgca
+G_intermedia    gatgtagataatcgaatcgttattcccttcgaatcacaaattcgaatattggtaactgca
+G_quinquepuncta gatgtagataaccgaattgttatccccttcgaatcacaaatccgaatattagtaactgct
+G_nigropiagiata gatgtagacaaccgagtaattgttccttttgaatctcaaattcgaatattagttacagca
+G_rubripennis   gatgttgataatcgaattgtaattccatttgaatcacaaattcgtatattagtaactgct
+G_kamikawai     gatgtcgacaatcgaattgttattccatttgaatcccaaatccgaatattagtaactgct
+G_tredecimmacul gatgtagataaccgaattgtaatcccatttgagtctcaaattcgtatattagtaactgct
+Chrysomela      gatgtagataaccgtgttattatcccatttgaatcccaaattcgtatattaattactgct
+Oreina          gatgttgataatcgaattattgccccattccaatcacaaatccgtatattaattacggct
+                **.** **.**.** .*  * .. ** **. *.** **.**.** ***.*..*    ** 
+
+G_viminalis     gcagatgtaattcattcttgaactatcccatccttaggagttaaaattgatgcaacccct
+G_holdausi      gcagatgtaattcattcttgaactattccatcattaggggttaaaattgatgcaactcct
+G_occidentalis  gcagatgtaatccattcttgaacaattccttcactaggagtaaaaattgatgcaacccct
+G_rufipes       gcagatgtaattcattcttgaactattccatcattaggtgttaaaattgatgcaactcct
+G_linnaeana     gcagacgttattcactcctgaactatcccatctttaggagttaaaattgatgccactcct
+G_Olivacea      gcagatgtaattcactcatgaacaattccatctttaggagtaaaaattgatgcaactcca
+G_variabilis    gcagatgtaattcactcttgaacaatcccgtcattaggagtcaaaattgatgctacccct
+G_fornicata     gcagacgtaattcattcatgaacaattccttcactaggagtaaaaattgatgcaacccct
+G_interposita   gctgatgtaattcactcatgaacaatcccttctttaggggtaaaaattgatgctacacca
+G_interposita   gctgatgtaattcactcatgaacaatcccttctttaggagtaaaaattgatgctacacca
+G_pallida       gctgacgtaattcactcatggacaatcccttctttaggagtaaaaattgatgctacacca
+G_pallida       gctgatgtaattcactcatgaacaatcccttctttaggagtaaaaattgatgctacacca
+G_intermedia    gctgatgtcattcactcctgaactatcccttctttaggtgttaaaattgatgctacccca
+G_quinquepuncta gctgatgtaattcactcttgaactatcccttctttaggtgtaaaaattgatgcaaccccg
+G_nigropiagiata gctgatgttattcattcgtgaacaattccatccttaggagtaaaaattgatgcgacacct
+G_rubripennis   gccgatgtaattcactcttgaactattccatctttaggagtaaaaattgatgctactcct
+G_kamikawai     gcagatgtaattcattcttgaacaatcccatctttaggagtaaaaattgacgcaactcca
+G_tredecimmacul gcagatgttattcactcttgaactatcccatcattaggagtaaaaattgatgctatacca
+Chrysomela      gctgatgtagttcattcatgaactatcccttctttaggagtaaaaattgatgcaatacct
+Oreina          acagatgttatccactcatggacaatcccttctttgggagttaaaattgatgctacccct
+                .* **.** .*.**.** **.** **.** ** .*.** ** ********.** *. ** 
+
+G_viminalis     ggacggttaaatc
+G_holdausi      ggacgattaaatc
+G_occidentalis  ggacgactaaatc
+G_rufipes       ggacgactaaatc
+G_linnaeana     gggcgacttaatc
+G_Olivacea      ggacgattaaatc
+G_variabilis    ggacgattgaatc
+G_fornicata     ggacgactaaatc
+G_interposita   ggacgattaaatc
+G_interposita   ggacgattaaatc
+G_pallida       ggacgattaaatc
+G_pallida       ggacgattgaann
+G_intermedia    ggtcgattaaacc
+G_quinquepuncta ggtcggttaaatc
+G_nigropiagiata ggtcgattaaatc
+G_rubripennis   ggtcgtctaaatc
+G_kamikawai     ggacgtctaaacc
+G_tredecimmacul ggccgccttaatc
+Chrysomela      ggccgattaaatc
+Oreina          ggacgtttaaatc
+                ** ** .* **  
