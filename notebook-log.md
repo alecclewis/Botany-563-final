@@ -38,3 +38,20 @@ Instructions:
 To convert my aligned Phylip files into different formats, I utilized a format converter available at http://phylogeny.lirmm.fr/phylo_cgi/data_converter.cgi. This online tool facilitated the conversion of my aligned files into both Fasta and Nexus formats. The resulting aligned MAFFT fasta files can now be found within the data_clean folder of the Botany-563-Final directory.
 
 
+
+
+Distance and Parsimony:
+
+After aligning the DNA sequences, I chose to construct distance and parsimony trees with R Studio. This approach took into consideration the estimated evolutionary distances and the minimum number of DNA changes. The rationale behind choosing R Studio for this task was its versatility, offering users a range of options to generate a phylogenetic tree that aligns with their data. Notably, R Studio provides an array of algorithms, granting us the freedom to select the most suitable ones when crafting our distance and parsimony trees.
+Having R Studio already downloaded for a previous class, I installed the packages through the command "install.packages("adegenet", dep=TRUE)" followed by "install.packages("phangorn", dep=TRUE)". Having successfully integrated these packages, I used the code "library(ape)", "library(adegenet)", and "library(phangorn)" to load them. Then, I imported my data utilizing the code 
+"dna <- fasta2DNAbin(file="COII_data.fasta.txt")".
+ 
+
+Maximum Likelihood:
+
+Installing iqtree:
+I installed iqtree software from http://www.iqtree.org, which can be run by typing iqtree in the command line of the terminal.
+
+
+
+
