@@ -21,7 +21,7 @@ Aligning:
 
 Aligned Data with ClustalW:
 
-My journal had already aligned the data using ClustalW 1.5.
+My journal had already aligned the data using ClustalW 1.5 in the original report.
 
 Instructions:
 Before proceeding, ensure that you are in the appropriate directory containing the files you wish to align. Open the terminal and execute the ClustalW program. Upon launching, choose option 1 to input the sequence data, specifically the file named COII.txt. Next, select option 2 to initiate a multiple sequence alignment for the provided data. Opt for choice 1 to perform a comprehensive multiple alignment, prioritizing accuracy over speed. Assign a name for the resulting output file, such as COII_aligned_clustalw.txt. It's worth noting that the output will be generated in Phylip format. You can locate the aligned output data within the data_clean folder of the Botany-563-Final directory.
@@ -43,15 +43,20 @@ To convert my aligned Phylip files into different formats, I utilized a format c
 Distance and Parsimony:
 
 After aligning the DNA sequences, I chose to construct distance and parsimony trees with R Studio. This approach took into consideration the estimated evolutionary distances and the minimum number of DNA changes. The rationale behind choosing R Studio for this task was its versatility, offering users a range of options to generate a phylogenetic tree that aligns with their data. Notably, R Studio provides an array of algorithms, granting us the freedom to select the most suitable ones when crafting our distance and parsimony trees.
-Having R Studio already downloaded for a previous class, I installed the packages through the command "install.packages("adegenet", dep=TRUE)" followed by "install.packages("phangorn", dep=TRUE)". Having successfully integrated these packages, I used the code "library(ape)", "library(adegenet)", and "library(phangorn)" to load them. Then, I imported my data utilizing the code 
-"dna <- fasta2DNAbin(file="COII_data.fasta.txt")".
- 
+Having R Studio already downloaded for a previous class, I installed the packages through the command "install.packages("adegenet", dep=TRUE)" followed by "install.packages("phangorn", dep=TRUE)". Having successfully integrated these packages, I used the code "library(ape)", "library(adegenet)", and "library(phangorn)" to load them. 
+Having encountered some challenges while attempting to construct both distance and parsimony trees in R, I decided to seek assistance from a classmate named Ben Klementz. With his guidance, we proceeded to build the trees in R using the following series of codes: First, I loaded the DNA data with "dna <- fasta2DNAbin(file="COII.fasta")". Then, to compute the distance matrix, I employed "D <- dist.dna(dna, model="TN93")". Next, I utilized the code "tre <- nj(D)" to generate the tree, which I subsequently visualized using "plot(tre)". For each of the genetic markers (COII, 12s, and 16s), I diligently ensured that the correct file names were inputted into the code, resulting in the successful creation of three trees, each corresponding to its respective marker. The trees can be found in the “figures” folder in Botany-563-final.
+
+
+
+
+
 
 Maximum Likelihood:
 
 Installing iqtree:
-I installed iqtree software from http://www.iqtree.org, which can be run by typing iqtree in the command line of the terminal.
+I installed iqtree software from http://www.iqtree.org/#download, which can be run by typing iqtree in the command line of the terminal. 
 
 
+~/Desktop/iqtree-1.6.12-MacOSX/bin/iqtree -s COII.fst
 
-
+Downloaded sea view to ___ at https://doua.prabi.fr/software/seaview.
