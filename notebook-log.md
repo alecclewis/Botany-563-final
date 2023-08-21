@@ -58,7 +58,13 @@ After aligning the DNA sequences, I chose to construct distance and parsimony tr
 Maximum Likelihood:
 
 Installing iqtree:
-I installed iqtree software from http://www.iqtree.org/#download, which can be run by typing “~/Desktop/iqtree-1.6.12-MacOSX/bin/iqtree -s COII.fst -bb 1000 -nt AUTO'' in the terminal. This command effectively designates the desired file to be processed , sets 1000 replicates for the ultrafast bootstrap (-bb 1000), and dynamically determines the optimal number of CPU cores for an expedited analysis (-nt AUTO). You have to make sure you are in the correct folder to correctly run this command. It took a very short amount of time to create each maximum likelihood tree and other files for each data set. To view the tree, I exported each treefile to figtree, which I downloaded using the link: http://tree.bio.ed.ac.uk/software/figtree/. The code for can be seen in the folder “data_clean” called “IQtree_code.R.”  The trees can be found in the “figures” folder in the Botany-563-final repository.
+I installed iqtree software from http://www.iqtree.org/#download, which can be run by typing “~/Desktop/iqtree-1.6.12-MacOSX/bin/iqtree -s COII.fst -bb 1000 -nt AUTO'' in the terminal. This command effectively designates the desired file to be processed , sets 1000 replicates for the ultrafast bootstrap (-bb 1000), and dynamically determines the optimal number of CPU cores for an expedited analysis (-nt AUTO). This worked for COII and 16S genes but had the following error with 12S: ERROR: 
+Alignment sequence Oreina does not appear in the tree
+ERROR: Alignment sequence Chrysomela does not appear in the tree
+(G_viminalis,G_holdausi,(G_occidentalis,(G_linnaeana,(G_rufipes,((G_kamikawai,G_tredecimmacul),(((G_nigropiagiata,(G_olivacea,G_variabilis)),(G_fornicata,(G_quinquepuncta,(((G_interposita_1_,G_interposita_2_),(G_pallida_1_,G_pallida_2_)),G_intermedia)))),G_rubripennis))))));
+ERROR: Tree taxa and alignment sequence do not match (see above)
+(base) aleclewis@Alecs-Air data_clean % 
+This shows that there is a bug in the IQtree. I reported my problem in the google group for iqtree. You have to make sure you are in the correct folder to correctly run this command. It took a very short amount of time to create each maximum likelihood tree and other files for each data set. To view the tree, I exported each treefile to figtree, which I downloaded using the link: http://tree.bio.ed.ac.uk/software/figtree/. The code for can be seen in the folder “data_clean” called “IQtree_code.R.”  The trees can be found in the “figures” folder in the Botany-563-final repository.
 
 
 Why I chose iqtree:
